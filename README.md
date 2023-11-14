@@ -1,2 +1,19 @@
 # JRodall.github.io
 My Github Page for JRodall
+
+November 14th 2023
+This is a first attempt at a github project for CS50 
+Description:
+/// TODO 
+
+Project: 
+/// TODO 
+
+Usage: 
+/// TODO 
+
+User Stories: 
+/// TODO 
+
+Features & Future Features: 
+/// TODO 
